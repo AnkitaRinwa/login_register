@@ -1,0 +1,135 @@
+{
+  "project_info": {
+    "project_number": "654886827570",
+    "firebase_url": "https://firbaseemailauth.firebaseio.com",
+    "project_id": "firbaseemailauth",
+    "storage_bucket": "firbaseemailauth.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:654886827570:android:74679d0bac7f53d838ee2b",
+        "android_client_info": {
+          "package_name": "com.example.login_register"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "654886827570-sdqngiqjgfb9n2bo3m2v00qpqaph6qa1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.login_register",
+            "certificate_hash": "e2c8d2c73adc559e4f195f0df4342ca4d72f2278"
+          }
+        },
+        {
+          "client_id": "654886827570-ldq891ju39ggl76ifh1ghq84e5c5t25h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZfJdxkRCi8nflBGQiICgBLBNkgiolWKI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "654886827570-ldq891ju39ggl76ifh1ghq84e5c5t25h.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "654886827570-9n07siih9ajhc6af7n9jveha6p3egi9n.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.saur.loginRegister"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:654886827570:android:84485bc9d9919b1238ee2b",
+        "android_client_info": {
+          "package_name": "com.example.passwordless_demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "654886827570-q0sdfbr846ahn649av38g33cq67nspm0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.passwordless_demo",
+            "certificate_hash": "9f910742e3a8e401ac8b3aa57cb09a5a4eaf4a6b"
+          }
+        },
+        {
+          "client_id": "654886827570-ldq891ju39ggl76ifh1ghq84e5c5t25h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZfJdxkRCi8nflBGQiICgBLBNkgiolWKI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "654886827570-ldq891ju39ggl76ifh1ghq84e5c5t25h.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "654886827570-9n07siih9ajhc6af7n9jveha6p3egi9n.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.saur.loginRegister"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:654886827570:android:a1fb60407968031138ee2b",
+        "android_client_info": {
+          "package_name": "com.example.passwordless_login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "654886827570-ldq891ju39ggl76ifh1ghq84e5c5t25h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZfJdxkRCi8nflBGQiICgBLBNkgiolWKI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "654886827570-ldq891ju39ggl76ifh1ghq84e5c5t25h.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "654886827570-9n07siih9ajhc6af7n9jveha6p3egi9n.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.saur.loginRegister"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

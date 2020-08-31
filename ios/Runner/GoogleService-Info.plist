@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>654886827570-9n07siih9ajhc6af7n9jveha6p3egi9n.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.654886827570-9n07siih9ajhc6af7n9jveha6p3egi9n</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>654886827570-q0sdfbr846ahn649av38g33cq67nspm0.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDof8RpSM_Ws0Mb0nrx4Arr76rFrxpiV2U</string>
+	<key>GCM_SENDER_ID</key>
+	<string>654886827570</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.saur.loginRegister</string>
+	<key>PROJECT_ID</key>
+	<string>firbaseemailauth</string>
+	<key>STORAGE_BUCKET</key>
+	<string>firbaseemailauth.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:654886827570:ios:365d313df2dc85a938ee2b</string>
+	<key>DATABASE_URL</key>
+	<string>https://firbaseemailauth.firebaseio.com</string>
+</dict>
+</plist>
